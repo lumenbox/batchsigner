@@ -1,0 +1,3 @@
+psycopg2-binary
+paramiko
+ed25519

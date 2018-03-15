@@ -1,0 +1,6 @@
+[template]
+src = "batchsigner.cron.tmpl"
+dest = "/usr/src/app/batchsigner.cron"
+keys = [
+    "/cron",
+]
